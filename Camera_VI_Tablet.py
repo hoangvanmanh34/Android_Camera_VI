@@ -25,6 +25,7 @@ import subprocess
 #Danny TE-NPI
 #hoangvanmanhpc@gmail.com
 #https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
 ftemp = tempfile.TemporaryDirectory()
 class App(Frame):
     def __init__(self, master=None):
