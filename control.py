@@ -5,6 +5,7 @@ from time import sleep
 #Danny TE-NPI
 #hoangvanmanhpc@gmail.com
 #https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
 class ControlMixin:
     ACTION_MOVE = b'\x02'
     ACTION_DOWN = b'\x00'
