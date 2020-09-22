@@ -4,6 +4,7 @@ from time import monotonic  # use time.time or monotonic.monotonic on Python 2
 #Danny TE-NPI
 #hoangvanmanhpc@gmail.com
 #https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
 class WatchdogTimer(Thread):
     """Run *callback* in *timeout* seconds unless the timer is restarted."""
 
