@@ -13,6 +13,7 @@ from control import ControlMixin
 #Danny TE-NPI
 #hoangvanmanhpc@gmail.com
 #https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
 logger = logging.getLogger(__name__)
 logging.basicConfig(stream=sys.stdout, level=logging.INFO,
                     format='%(asctime)s.%(msecs)03d %(levelname)s:\t%(message)s',
