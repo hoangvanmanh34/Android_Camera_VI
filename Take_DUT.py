@@ -14,6 +14,7 @@ import ADB
 #Danny TE-NPI
 #hoangvanmanhpc@gmail.com
 #https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
 adb_path = r"D:\Test_Program\module\adb"
 class Take_Image_D4():
     def __init__(self):
