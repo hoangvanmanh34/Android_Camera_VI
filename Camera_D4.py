@@ -17,6 +17,7 @@ from math import *
 #Danny TE-NPI
 #hoangvanmanhpc@gmail.com
 #https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
 class Image_Alz():
     def __init__(self):
         print('Image_Alz')
