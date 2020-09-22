@@ -5,6 +5,7 @@ import Watchdog
 #Danny TE-NPI
 #hoangvanmanhpc@gmail.com
 #https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
 def Send_ADB(cmd, expect_dic = {}, dtime1=0, dtime2=0, itimeout=10,Error_Code='No_Error_Code', unexpect_line='', sendFixture=''):
     adb_path = "D:\\CameraVI\\adb"
     ADB_RES_1 = []
